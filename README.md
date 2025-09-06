@@ -2,7 +2,7 @@
 This is a PyTorch implementation of the paper: D2SQA: A Dynamic Distillation Slow Queries Analysis
 Framework via Edge-Cloud Collaboration 
 
-![Overview](./framework.png)
+![Overview](./Framework.png)
 
 ## Environment Preparation
 Place D2SQA.yml in the project root directory 
